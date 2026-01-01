@@ -14,7 +14,7 @@ This project was developed as part of a Bachelor’s Thesis in Systems and Compu
 
 ## Key Features
 
-- Automated ingestion from multiple OSCTI feeds  
+- Automated ingestion from multiple OSINT feeds  
 - IoC normalization and automatic type detection  
 - Deduplication and historical tracking  
 - Centralized SQLite database  
